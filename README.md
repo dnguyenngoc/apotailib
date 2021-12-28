@@ -7,7 +7,7 @@ We publish apotailib as `apotailib` package in PyPI.
 1. Installing with pip:
 
 ```bash
-pip install 'apache-airflow==2.2.3'
+pip install 'apotailib==0.0.2'
 ```
 
 2. Sample python code:
