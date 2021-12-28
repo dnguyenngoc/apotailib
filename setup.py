@@ -12,7 +12,7 @@ setup(
   name='apotailib',
   version='0.0.2',
   description='A very basic calculator',
-  long_description=open('README.txt').read() + '\n\n' + open('CHANGELOG.txt').read(),
+  long_description=open('README.md').read() + '\n\n' + open('CHANGELOG.txt').read(),
   url='',  
   author='Duy Nguyen',
   author_email='duynguyenngoc@hotmail.com',
